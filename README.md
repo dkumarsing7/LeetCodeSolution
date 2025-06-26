@@ -14,27 +14,6 @@ This repository includes:
 - 💬 Each solution has clear **comments** and sometimes brief logic explanations
 - 🧪 Most problems include **time & space complexity analysis**
 
----
-
-## 🗃️ Folder Structure
-
-LeetCodeSolution/
-├── Arrays/
-│ ├── TwoSum.cpp
-│ └── BestTimeToBuySellStock.cpp
-├── Strings/
-│ └── ValidPalindrome.cpp
-├── Trees/
-│ └── InorderTraversal.cpp
-├── DynamicProgramming/
-│ └── Fibonacci.cpp
-├── ...
-└── README.md
-
-
-
-
-> Each folder represents a topic. File names are based on problem names for quick reference.
 
 ---
 

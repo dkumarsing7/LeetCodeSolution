@@ -18,4 +18,63 @@ This repository includes:
 
 ## 🗃️ Folder Structure
 
-![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?dkumarsing7=your-dkumarsing7&show_icons=true&theme=radical)
+LeetCodeSolution/
+├── Arrays/
+│ ├── TwoSum.cpp
+│ └── BestTimeToBuySellStock.cpp
+├── Strings/
+│ └── ValidPalindrome.cpp
+├── Trees/
+│ └── InorderTraversal.cpp
+├── DynamicProgramming/
+│ └── Fibonacci.cpp
+├── ...
+└── README.md
+
+
+
+
+> Each folder represents a topic. File names are based on problem names for quick reference.
+
+---
+
+## 💻 Topics Covered
+
+- Arrays & Strings  
+- Linked Lists  
+- Trees & Binary Search Trees  
+- Stacks & Queues  
+- Recursion & Backtracking  
+- Dynamic Programming  
+- Hashing  
+- Bit Manipulation  
+- Greedy Algorithms  
+- Sliding Window & Two Pointers  
+- Graphs & BFS/DFS
+
+---
+
+## 🛠️ Tech Stack
+
+- Language: **C++ (STL powered)**  
+- IDE: VS Code / CodeBlocks / LeetCode Online Editor  
+- Platform: [LeetCode](https://leetcode.com/)
+
+---
+
+## 🔗 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/deepaksingh999/)
+- 📧 Email: dkumarsing7@gmail.com
+
+---
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+> **"Strive for clarity, not cleverness. Write code that others can read, not just the compiler."**  
+> Keep grinding, coder! 🚀💻
+

@@ -17,7 +17,7 @@ This repository includes:
 
 ---
 
-## 💻 Topics Covered
+## 💻 Topics Covered(IN PROGRESS)
 
 - Arrays & Strings  
 - Linked Lists  
